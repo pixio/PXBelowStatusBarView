@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PXBelowStatusBarView_Example', :exclusive => true do
+  pod "PXBelowStatusBarView", :path => "../"
+end
+
+target 'PXBelowStatusBarView_Tests', :exclusive => true do
+  pod "PXBelowStatusBarView", :path => "../"
+
+  
+end
