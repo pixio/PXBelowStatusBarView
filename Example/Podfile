@@ -3,6 +3,7 @@ use_frameworks!
 
 target 'PXBelowStatusBarView_Example', :exclusive => true do
   pod "PXBelowStatusBarView", :path => "../"
+  pod 'SPHStringContentFillView'
 end
 
 target 'PXBelowStatusBarView_Tests', :exclusive => true do
