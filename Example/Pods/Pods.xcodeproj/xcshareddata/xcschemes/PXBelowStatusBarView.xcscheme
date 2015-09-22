@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'F4D1CA4B0C3ACC5B26DD4FD9'
+               BlueprintIdentifier = 'CDF9A4003576FBCC70DF9632'
                BlueprintName = 'PXBelowStatusBarView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'PXBelowStatusBarView.framework'>

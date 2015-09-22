@@ -1,6 +1,6 @@
 {
   "name": "PXBelowStatusBarView",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A view that stays below the status bar.",
   "description": "PXBelowStatusBarView is a view that lays its subview out immediately below the status bar, if the status bar would have otherwise covered it.",
   "homepage": "https://github.com/pixio/PXBelowStatusBarView",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/pixio/PXBelowStatusBarView.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "7.0"

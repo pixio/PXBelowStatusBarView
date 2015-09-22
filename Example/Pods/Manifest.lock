@@ -1,5 +1,5 @@
 PODS:
-  - PXBelowStatusBarView (0.1.0)
+  - PXBelowStatusBarView (0.1.1)
   - SPHStringContentFillView (0.2.2)
 
 DEPENDENCIES:
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PXBelowStatusBarView: 8ba303cf97144ffd4b0bdc514e3b0e86320b07f2
+  PXBelowStatusBarView: d45cabd45adf68d5890d96a9cca255ef65563037
   SPHStringContentFillView: 49593a3da4791f50ebbecc06b5d9a23f744c032c
 
 COCOAPODS: 0.39.0.beta.4
